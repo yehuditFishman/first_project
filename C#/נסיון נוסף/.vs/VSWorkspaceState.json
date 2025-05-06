@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BL",
+    "\\BL\\Api",
+    "\\DAL",
+    "\\DAL\\DAL",
+    "\\Server",
+    "\\Server\\Controllers",
+    "\\Server\\Middlewares"
+  ],
+  "SelectedNode": "\\DAL\\DAL.sln",
+  "PreviewInSolutionExplorer": false
+}

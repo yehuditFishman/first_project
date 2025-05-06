@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\services\\blbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\models\\blbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\api\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\api\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\blmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\dalmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\dalmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\api\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\api\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\services\\blflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\api\\iblflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\services\\bluserfrommanegerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\services\\bluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\middlewares\\authorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\api\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\api\\iflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\api\\ibluserfrommaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\api\\ibluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\api\\iblbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\models\\bluserfrommaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\models\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\models\\blflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\controllers\\usersfrommanegercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09CDD02-0DC4-4CC6-96B6-E681BB7A5A70}|..\\Server\\Server.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A7506-FBEB-4AAF-910F-5CA79F034339}|..\\BL\\BL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|h:\\c#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\dal\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AC85CD0-106A-4881-800C-4296870414E5}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Program.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Program.cs",
+              "RelativeToolTip": "..\\Server\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:36:43.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLManeger.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\BLManeger.cs",
+              "RelativeDocumentMoniker": "..\\BL\\BLManeger.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\BLManeger.cs",
+              "RelativeToolTip": "..\\BL\\BLManeger.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:07:33.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBL.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBL.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Api\\IBL.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBL.cs",
+              "RelativeToolTip": "..\\BL\\Api\\IBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:09:22.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Booking.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\Booking.cs",
+              "RelativeToolTip": "DAL\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:54:52.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBooking.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IBooking.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IBooking.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IBooking.cs",
+              "RelativeToolTip": "DAL\\Api\\IBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:06:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\BookingService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Services\\BookingService.cs",
+              "RelativeToolTip": "DAL\\Services\\BookingService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:29:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Controllers\\BookingsController.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "..\\Server\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:27:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BLBooking.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLBooking.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Models\\BLBooking.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLBooking.cs",
+              "RelativeToolTip": "..\\BL\\Models\\BLBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:24:45.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLBookingService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLBookingService.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Services\\BLBookingService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLBookingService.cs",
+              "RelativeToolTip": "..\\BL\\Services\\BLBookingService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:30:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DalManeger.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\DalManeger.cs",
+              "RelativeDocumentMoniker": "DAL\\DalManeger.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\DalManeger.cs",
+              "RelativeToolTip": "DAL\\DalManeger.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:47:29.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\ICrud.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\ICrud.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\ICrud.cs",
+              "RelativeToolTip": "DAL\\Api\\ICrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:17:22.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IDal.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IDal.cs",
+              "RelativeToolTip": "DAL\\Api\\IDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:29:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BLFlightService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLFlightService.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Services\\BLFlightService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLFlightService.cs",
+              "RelativeToolTip": "..\\BL\\Services\\BLFlightService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:50:02.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBLFlight.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLFlight.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Api\\IBLFlight.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLFlight.cs",
+              "RelativeToolTip": "..\\BL\\Api\\IBLFlight.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:46:27.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Controllers\\FlightsController.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "..\\Server\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:06:55.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BLUserService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLUserService.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Services\\BLUserService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLUserService.cs",
+              "RelativeToolTip": "..\\BL\\Services\\BLUserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:53:16.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BLUserFromManegerService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLUserFromManegerService.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Services\\BLUserFromManegerService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Services\\BLUserFromManegerService.cs",
+              "RelativeToolTip": "..\\BL\\Services\\BLUserFromManegerService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:35:56.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Services\\UserService.cs",
+              "RelativeToolTip": "DAL\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:16:14.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\FlightService.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Services\\FlightService.cs",
+              "RelativeToolTip": "DAL\\Services\\FlightService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:28:13.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\DatabaseManager.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\DatabaseManager.cs",
+              "RelativeToolTip": "DAL\\Models\\DatabaseManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwBkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:22:22.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthorizationMiddleware.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Middlewares\\AuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Middlewares\\AuthorizationMiddleware.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Middlewares\\AuthorizationMiddleware.cs",
+              "RelativeToolTip": "..\\Server\\Middlewares\\AuthorizationMiddleware.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:34:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Flight.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\Flight.cs",
+              "RelativeToolTip": "DAL\\Models\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:34:31.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Client.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Client.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Models\\Client.cs",
+              "RelativeToolTip": "DAL\\Models\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:54:49.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IUser.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IUser.cs",
+              "RelativeToolTip": "DAL\\Api\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:19:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFlight.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IFlight.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IFlight.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Api\\IFlight.cs",
+              "RelativeToolTip": "DAL\\Api\\IFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:10:13.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBLUserFromManeger.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLUserFromManeger.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Api\\IBLUserFromManeger.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLUserFromManeger.cs",
+              "RelativeToolTip": "..\\BL\\Api\\IBLUserFromManeger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:25:45.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBLUser.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLUser.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Api\\IBLUser.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLUser.cs",
+              "RelativeToolTip": "..\\BL\\Api\\IBLUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:54:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBLBooking.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLBooking.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Api\\IBLBooking.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Api\\IBLBooking.cs",
+              "RelativeToolTip": "..\\BL\\Api\\IBLBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:19:00.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BLUserFromManeger.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLUserFromManeger.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Models\\BLUserFromManeger.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLUserFromManeger.cs",
+              "RelativeToolTip": "..\\BL\\Models\\BLUserFromManeger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:36:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BLUser.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLUser.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Models\\BLUser.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLUser.cs",
+              "RelativeToolTip": "..\\BL\\Models\\BLUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:51:34.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BLFlight.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLFlight.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Models\\BLFlight.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\Models\\BLFlight.cs",
+              "RelativeToolTip": "..\\BL\\Models\\BLFlight.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:48:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Controllers\\UsersController.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:07:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsersFromManegerController.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\UsersFromManegerController.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Controllers\\UsersFromManegerController.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Controllers\\UsersFromManegerController.cs",
+              "RelativeToolTip": "..\\Server\\Controllers\\UsersFromManegerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:34:08.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:54:59.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "..\\Server\\Server.csproj",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\Server\\Server.csproj",
+              "RelativeToolTip": "..\\Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:33:38.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BL.csproj",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "..\\BL\\BL.csproj",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\BL\\BL.csproj",
+              "RelativeToolTip": "..\\BL\\BL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:25:06.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "H:\\C#\\\u05E0\u05E1\u05D9\u05D5\u05DF \u05E0\u05D5\u05E1\u05E3\\DAL\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:15:22.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
