@@ -39,7 +39,8 @@ namespace DAL.Services
 
             public List<Booking> Read()
             {
-                return DatabaseManager.Bookings.ToList();
+            List <Booking> bookings = DatabaseManager.Bookings.ToList();
+            return bookings;
             }
 
             public void Update(Booking item)

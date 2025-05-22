@@ -9,7 +9,8 @@ namespace BL.Api
     public interface IBL
     {
         IBLFlight flight { get; }
-        IBLUser user { get; }
+        IBLUserPermission userPermission { get; }
+        IBLUser  user{ get; }
         IBLUserFromManeger userFromManeger { get; }
         IBLBooking booking { get; }
     }

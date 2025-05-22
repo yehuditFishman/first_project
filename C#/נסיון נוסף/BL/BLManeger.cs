@@ -15,15 +15,17 @@ namespace BL
 
         public IBLFlight flight { get; }
 
-        public IBLUser user {  get; }
+        public IBLUser user { get; }
 
         public IBLBooking booking {  get; }
 
-        
-          public BLManeger(IBLFlight flight, IBLUser user, IBLUserFromManeger userFromManeger, IBLBooking booking)
+        public IBLUserPermission userPermission { get; }
+
+        public BLManeger(IBLFlight flight, IBLUserPermission userpermission, IBLUserFromManeger userFromManeger, IBLBooking booking , IBLUser user)
             {
                 this.flight = flight;
                 this.user = user;
+                this.userPermission = userpermission;
                 this.userFromManeger = userFromManeger;
                 this.booking = booking;
             }

@@ -41,6 +41,7 @@ builder.Services.AddScoped<IBL, BLManeger>();
 builder.Services.AddSingleton<IBLUserFromManeger, BLUserFromManegerService>();
 builder.Services.AddSingleton<IBLFlight, BLFlightService>();
 builder.Services.AddSingleton<IBLUser, BLUserService>();
+builder.Services.AddSingleton<IBLUserPermission, BLUserPermissionService>();
 builder.Services.AddSingleton<IBLBooking, BLBookingService>();
 
 

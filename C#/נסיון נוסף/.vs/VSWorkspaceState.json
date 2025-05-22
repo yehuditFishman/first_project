@@ -9,6 +9,6 @@
     "\\Server\\Controllers",
     "\\Server\\Middlewares"
   ],
-  "SelectedNode": "\\DAL\\DAL.sln",
+  "SelectedNode": "\\Server\\Controllers\\BookingsController.cs",
   "PreviewInSolutionExplorer": false
 }

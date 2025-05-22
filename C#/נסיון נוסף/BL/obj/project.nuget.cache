@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x/P1Ync8BE4=",
+  "dgSpecHash": "YcDLf2GBYWk=",
   "success": true,
-  "projectFilePath": "H:\\C#\\נסיון נוסף\\BL\\BL.csproj",
+  "projectFilePath": "H:\\C#\\githube_project\\first_project\\C#\\נסיון נוסף\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\פישמן יהודית\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\פישמן יהודית\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

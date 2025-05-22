@@ -10,6 +10,6 @@ namespace BL.Api
     public interface IBLBooking
     {
         List<BLBooking> getBookingsToBuy(int idFlight);
-
+        void AddBooking(BLBooking booking);
     }
 }

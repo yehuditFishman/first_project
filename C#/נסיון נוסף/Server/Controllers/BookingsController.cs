@@ -18,11 +18,20 @@ namespace Server.Controllers
             this.booking = bl.booking;
         }
 
-        [HttpGet]
-        
-        public ActionResult<List<BLBooking>> getAllBookings([FromBody]int id)
+        [HttpGet("{id}")]
+        public ActionResult<List<BLBooking>> getAllBookings(int id)
         {
             return booking.getBookingsToBuy(id);
+        }
+
+        [HttpPost]
+        public IActionResult AddBooking([FromBody] BLBooking booking)
+        {
+            if (booking == null)
+                return BadRequest("Booking cannot be null.");
+
+            this.booking.AddBooking(booking);
+            return Ok("Booking added successfully.");
         }
     }
 }

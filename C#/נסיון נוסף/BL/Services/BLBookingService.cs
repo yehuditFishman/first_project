@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace BL.Services
 {
     public class BLBookingService : IBLBooking
@@ -19,53 +20,40 @@ namespace BL.Services
         }
         public List<BLBooking> getBookingsToBuy(int idFlight)
         {
-            List<BLBooking> blBooking =
-             booking.Read().Where(booking => booking.FlightId == idFlight)
-             .Where(b => b.Status == false).Select(b => new BLBooking())
-             .ToList();
-            return blBooking;
+            return booking.Read()
+                .Where(b => b.FlightId == idFlight && !b.Status)
+                .Select(b => new BLBooking
+                {
+                    Id = b.Id,
+                    UserId = b.UserId,
+                    FlightId = b.FlightId,
+                    BookingDate = b.BookingDate,
+                    Status = b.Status,
+                    Class = b.Class,
+                    Flight = b.Flight,
+                    User = b.User
+                })
+                .ToList();
         }
-        //    public List<BLBooking> getBookingsToBuy(int idFlight)
-        //    {
-        //        // בדיקה אם booking מאותחל
-        //        if (booking == null)
-        //        {
-        //            Console.WriteLine("The 'booking' instance is null.");
-        //            return new List<BLBooking>();
-        //        }
 
-        //        // בדיקה אם Read מחזירה נתונים
-        //        var bookings = booking.Read();
-        //        if (bookings == null)
-        //        {
-        //            Console.WriteLine("The 'Read' method returned null.");
-        //            return new List<BLBooking>();
-        //        }
-        //        if (!bookings.Any())
-        //        {
-        //            Console.WriteLine("The 'Read' method returned an empty list.");
-        //            return new List<BLBooking>();
-        //        }
+        public void AddBooking(BLBooking blBooking)
+        {
+            if (blBooking == null)
+                throw new ArgumentNullException(nameof(blBooking));
 
-        //        // הדפסת הנתונים
-        //        foreach (var b in bookings)
-        //        {
-        //            Console.WriteLine($"BookingId: {b.Id}, FlightId: {b.FlightId}, Status: {b.Status}");
-        //        }
+            var booking = new Booking
+            {
+                Id = blBooking.Id,
+                UserId = blBooking.UserId,
+                FlightId = blBooking.FlightId,
+                BookingDate = blBooking.BookingDate,
+                Status = blBooking.Status,
+                Class = blBooking.Class
+            };
 
-        //        // סינון ומיפוי ל-BLBooking
-        //        List<BLBooking> blBooking = bookings
-        //            .Where(b => b.FlightId == idFlight && b.Status == false)
-        //            .Select(b => new BLBooking
-        //            {
-        //                Id = b.Id,
-        //                FlightId = b.FlightId,
-        //                Status = b.Status
-        //            })
-        //            .ToList();
-
-        //        return blBooking;
-        //    }
+            this.booking.Create(booking);
         }
+
     }
+}
 
