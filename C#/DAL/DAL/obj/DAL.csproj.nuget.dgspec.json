@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\‏‏Project_GitHub - עותק\\first_project\\C#\\נסיון נוסף\\DAL\\DAL\\DAL.csproj": {}
+    "H:\\git final\\first_project\\C#\\DAL\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "H:\\‏‏Project_GitHub - עותק\\first_project\\C#\\נסיון נוסף\\DAL\\DAL\\DAL.csproj": {
+    "H:\\git final\\first_project\\C#\\DAL\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\‏‏Project_GitHub - עותק\\first_project\\C#\\נסיון נוסף\\DAL\\DAL\\DAL.csproj",
+        "projectUniqueName": "H:\\git final\\first_project\\C#\\DAL\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "H:\\‏‏Project_GitHub - עותק\\first_project\\C#\\נסיון נוסף\\DAL\\DAL\\DAL.csproj",
+        "projectPath": "H:\\git final\\first_project\\C#\\DAL\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\טרכטינגוט רבקה1\\.nuget\\packages\\",
-        "outputPath": "H:\\‏‏Project_GitHub - עותק\\first_project\\C#\\נסיון נוסף\\DAL\\DAL\\obj\\",
+        "outputPath": "H:\\git final\\first_project\\C#\\DAL\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

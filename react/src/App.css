@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  font-family: 'Heebo', 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(135deg, #f8fafc 0%, #e0e7ff 100%);
+  min-height: 100vh;
+}
+
+nav {
+  background: #4f46e5;
+  color: #fff;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(79,70,229,0.08);
+}
+
+nav .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+nav .nav-buttons button {
+  background: #fff;
+  color: #4f46e5;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5rem 1.2rem;
+  margin-left: 1rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+nav .nav-buttons button:hover {
+  background: #6366f1;
+  color: #fff;
+}
+
+main {
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #3730a3;
+}
+
+form {
+  background: #fff;
+  padding: 2rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(79,70,229,0.08);
+  display: inline-block;
+  margin-top: 2rem;
+}
+
+input[type="text"], input[type="password"], input[type="email"] {
+  width: 90%;
+  padding: 0.7rem;
+  margin: 0.5rem 0;
+  border: 1px solid #c7d2fe;
+  border-radius: 6px;
+  font-size: 1rem;
+  background: #f1f5f9;
+  transition: border 0.2s;
+}
+
+input:focus {
+  border: 1.5px solid #6366f1;
+  outline: none;
+}
+
+button[type="submit"] {
+  background: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.7rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button[type="submit"]:hover {
+  background: #3730a3;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

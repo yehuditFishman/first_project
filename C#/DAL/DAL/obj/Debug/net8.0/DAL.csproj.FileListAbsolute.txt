@@ -13,3 +13,18 @@ H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\
 H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.pdb
 H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\git final\first_project\C#\DAL\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\git final\first_project\C#\DAL\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\git final\first_project\C#\DAL\DAL\bin\Debug\net8.0\DAL.dll
+H:\git final\first_project\C#\DAL\DAL\bin\Debug\net8.0\DAL.pdb
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.dll
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.pdb
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+H:\git final\first_project\C#\DAL\DAL\obj\Debug\net8.0\ref\DAL.dll
