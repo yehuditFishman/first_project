@@ -33,7 +33,12 @@ builder.Services.AddCors(options =>
                .AllowAnyMethod(); // התרת כל המתודות (GET, POST וכו')
     });
 });
-
+//builder.Services.AddControllers()
+//    .AddJsonOptions(options =>
+//    {
+//        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+//        options.JsonSerializerOptions.WriteIndented = true;
+//    });
 // הוספת שירותים
 builder.Services.AddControllers();
 builder.Services.AddSingleton<IDal, DalManeger>();
@@ -49,7 +54,7 @@ var app = builder.Build();
 
 // שימוש ב-CORS
 app.UseCors("AllowReactApp");
-
+//app.UseAuthorization();
 // הוספת Middleware לנתיבים
 app.UseRouting();
 app.MapControllers();

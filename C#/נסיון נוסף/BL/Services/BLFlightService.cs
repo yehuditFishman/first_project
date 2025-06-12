@@ -74,6 +74,58 @@ namespace BL.Services
         .ToList();
             return blflight;
         }
+
+        public List<BLFlight> getAllFlights()
+        {
+            return flights.Read()
+                .Select(flight => new BLFlight
+                {
+                    FlightNumber = flight.FlightNumber,
+                    Airline = flight.Airline,
+                    Destination = flight.Destination,
+                    DepartureDate = flight.DepartureDate,
+                    DepartureTime = flight.DepartureTime,
+                    ArrivalDate = flight.ArrivalDate,
+                    ArrivalTime = flight.ArrivalTime,
+                    Origin = flight.Origin
+                })
+                .ToList();
+        }
+
+        public bool AddFlight(Flight flight)
+        {
+            if (flight == null)
+                return false;
+
+            try
+            {
+                flights.Create(flight);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public BLFlight GetFlightById(int id)
+        {
+            var flight = flights.Read().FirstOrDefault(f => f.Id == id);
+            if (flight == null)
+                return null;
+
+            return new BLFlight
+            {
+                FlightNumber = flight.FlightNumber,
+                Airline = flight.Airline,
+                Destination = flight.Destination,
+                DepartureDate = flight.DepartureDate,
+                DepartureTime = flight.DepartureTime,
+                ArrivalDate = flight.ArrivalDate,
+                ArrivalTime = flight.ArrivalTime,
+                Origin = flight.Origin
+            };
+        }
     }
    }
 

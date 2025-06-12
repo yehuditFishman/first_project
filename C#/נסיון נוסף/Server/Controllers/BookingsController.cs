@@ -19,9 +19,25 @@ namespace Server.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult<List<BLBooking>> getAllBookings(int id)
+
+
+        public ActionResult<List<BLBooking>> getAllBookings(int Id)
+
         {
-            return booking.getBookingsToBuy(id);
+            return booking.getBookingsToBuy(Id);
+        }
+        [HttpGet("manager{id}")]
+
+        public ActionResult<List<BLBooking>> getAllBookingsToManager(int Id)
+
+        {
+            return booking.getBookingsToManager(Id);
+        }
+
+        [HttpPut("{id}")]
+        public void updateBooking([FromRoute] int id, [FromQuery] int userId)
+        {
+            booking.buyBooking(id, userId);
         }
 
         [HttpPost]

@@ -29,5 +29,18 @@ namespace Server.Controllers
             user.UpdateUser(client);
             return "the update was succsess";
         }
+
+        [HttpPost("createUser")]
+        public ActionResult<string> CreateNewUser([FromBody] Client client)
+        {
+            user.CreatUser(client);
+            return "the add was sucssesfully";
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<bool> UserIsExist(int id)
+        {
+            return user.IsExist(id);
+        }
     }
 }

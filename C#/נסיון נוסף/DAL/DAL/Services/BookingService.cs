@@ -58,6 +58,9 @@ namespace DAL.Services
                     bookingToUpdate.Status = item.Status;
                     bookingToUpdate.Class = item.Class;
                     bookingToUpdate.Flight = item.Flight;
+                    bookingToUpdate.FlightId=item.FlightId;
+                    bookingToUpdate.UserId = item.UserId;
+                    bookingToUpdate.User = item.User;
                     DatabaseManager.SaveChanges();
                 }
             }

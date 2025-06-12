@@ -1,4 +1,5 @@
 ﻿using BL.Models;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,9 @@ namespace BL.Api
         List<BLFlight> FlightsByDestination(string destination);
         List<BLFlight> FlightsByOrigin(string origin);
         List<BLFlight> FlightsByDepartureDate(DateOnly departureDate);
+        List<BLFlight> getAllFlights();
+        bool AddFlight(Flight flight);
+        BLFlight GetFlightById(int id);
 
     }
 }

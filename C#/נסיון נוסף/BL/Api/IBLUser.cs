@@ -12,5 +12,8 @@ namespace BL.Api
     {
         List<BLUser> ReadUsers();
         void UpdateUser(Client user);
+        bool IsExist(int id);
+
+        void CreatUser(Client user);
     }
 }

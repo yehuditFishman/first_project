@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Identity.Client;
+using System;
 using System.Collections.Generic;
 
 namespace DAL.Models;
@@ -17,7 +18,7 @@ public partial class Client
 
     public string Password { get; set; } = null!;
 
-    public string AccessPermission { get; set; } = null!;
+    public string AccessPermission { get; set; } = "User";
 
     public virtual ICollection<Booking> Bookings { get; set; } = new List<Booking>();
 }

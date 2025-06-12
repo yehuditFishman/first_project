@@ -17,6 +17,7 @@ namespace Server.Controllers
         {
             this.users = bl.userPermission;
         }
+
         [HttpGet("{id}")]
         public ActionResult<string> getAccessPermissions(int id)
         {

@@ -18,23 +18,68 @@ namespace BL.Services
         {
             booking = dal.Booking;
         }
+
+        public void buyBooking(int idBooking, int userId)
+        {
+            var bookingToUpdate = booking.Read().FirstOrDefault(b => b.Id == idBooking);
+
+            if (bookingToUpdate != null)
+            {
+                bookingToUpdate.Status = true;
+                bookingToUpdate.UserId = userId;
+                booking.Update(bookingToUpdate);
+            }
+            else
+            {
+                throw new Exception("Booking not found."); // טיפול במקרה שהכרטיס לא נמצא
+            }
+        }
+
+
         public List<BLBooking> getBookingsToBuy(int idFlight)
         {
-            return booking.Read()
-                .Where(b => b.FlightId == idFlight && !b.Status)
-                .Select(b => new BLBooking
-                {
-                    Id = b.Id,
-                    UserId = b.UserId,
-                    FlightId = b.FlightId,
-                    BookingDate = b.BookingDate,
-                    Status = b.Status,
-                    Class = b.Class,
-                    Flight = b.Flight,
-                    User = b.User
-                })
-                .ToList();
+
+            List<BLBooking> blBooking =
+             booking.Read().Where(booking => booking.FlightId == idFlight)
+             .Where(b => b.Status == false).Select(b => new BLBooking
+             {
+                 Id = b.Id,
+
+                 UserId = b.UserId,
+
+                  FlightId = b.FlightId,
+                 //BookingDate = b.BookingDate,
+
+                 Status = b.Status,
+
+                 Class = b.Class,
+
+                 //Flight = b.Flight,
+                 User = b.User
+             })
+             .ToList();
+            return blBooking;
         }
+
+        //public List<BLBooking> getBookingsToBuy(int idFlight, int userId)
+        //{
+        //    //throw new NotImplementedException();
+        //    //=======
+        //    return booking.Read()
+        //        .Where(b => b.FlightId == idFlight && !b.Status)
+        //        .Select(b => new BLBooking
+        //        {
+        //            Id = b.Id,
+        //            UserId = b.UserId,
+        //            FlightId = b.FlightId,
+        //            BookingDate = b.BookingDate,
+        //            Status = b.Status,
+        //            Class = b.Class,
+        //            Flight = b.Flight,
+        //            User = b.User
+        //        })
+        //        .ToList();
+        //}
 
         public void AddBooking(BLBooking blBooking)
         {
@@ -45,15 +90,40 @@ namespace BL.Services
             {
                 Id = blBooking.Id,
                 UserId = blBooking.UserId,
-                FlightId = blBooking.FlightId,
-                BookingDate = blBooking.BookingDate,
+               // FlightId = blBooking.FlightId,
+               // BookingDate = blBooking.BookingDate,
                 Status = blBooking.Status,
                 Class = blBooking.Class
             };
 
             this.booking.Create(booking);
+
         }
 
+        public List<BLBooking> getBookingsToManager(int idFlight)
+        {
+            List<BLBooking> blBooking =
+            booking.Read().Where(booking => booking.FlightId == idFlight)
+            .Select(b => new BLBooking
+            {
+                Id = b.Id,
+
+                UserId = b.UserId,
+
+                FlightId = b.FlightId,
+                //BookingDate = b.BookingDate,
+
+                Status = b.Status,
+
+                Class = b.Class,
+
+                //Flight = b.Flight,
+                User = b.User
+            })
+            .ToList();
+            return blBooking;
+        }
     }
 }
+
 

@@ -1,29 +1,15 @@
-H:\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.deps.json
-H:\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
-H:\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.dll
-H:\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.pdb
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.dll
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\refint\DAL.dll
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.pdb
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
-H:\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\ref\DAL.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.deps.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.pdb
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.sourcelink.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\refint\DAL.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.pdb
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\bin\Debug\net8.0\DAL.pdb
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.pdb
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\DAL\DAL\obj\Debug\net8.0\ref\DAL.dll

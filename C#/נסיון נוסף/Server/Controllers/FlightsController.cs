@@ -19,30 +19,50 @@ namespace Server.Controllers
             this.BLFlight = bl.flight;
         }
 
-        //[HttpGet]
+        [HttpGet]
 
-        //public ActionResult<List<Flight>> getAllFlights()
-        //{
-        //    return flight.Read();
-        //}
+        public ActionResult<List<BLFlight>> getAllFlights()
+        {
+            return BLFlight.getAllFlights();
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<BLFlight> GetFlightById(int id)
+        {
+            var flight = BLFlight.GetFlightById(id);
+            if (flight == null)
+                return NotFound($"Flight with id {id} not found.");
+
+            return Ok(flight);
+        }
 
         [HttpGet("FlightsByDestination")]
-        public ActionResult<List<BLFlight>> getFlightsByDestination([FromBody] string destination)
+        public ActionResult<List<BLFlight>> getFlightsByDestination([FromQuery] string destination)
         {
             return BLFlight.FlightsByDestination(destination);
         }
 
 
         [HttpGet("FlightsByOrigin")]
-        public ActionResult<List<BLFlight>> getFlightsByOrigin([FromBody] string origin)
+        public ActionResult<List<BLFlight>> getFlightsByOrigin([FromQuery] string origin)
         {
             return BLFlight.FlightsByOrigin(origin);
         }
 
         [HttpGet("FlightsByDepartureDate")]
-        public ActionResult<List<BLFlight>> getFlightsByDepartureDate([FromBody] DateOnly departureDate)
+        public ActionResult<List<BLFlight>> getFlightsByDepartureDate([FromQuery] DateOnly departureDate)
         {
             return BLFlight.FlightsByDepartureDate(departureDate);
+        }
+        [HttpPost]
+        public ActionResult<bool> AddFlight([FromBody] Flight flight)
+        {
+            if (flight == null)
+            {
+                return BadRequest("Flight cannot be null.");
+            }
+            BLFlight.AddFlight(flight);
+            return Ok(true);
         }
     }
 }

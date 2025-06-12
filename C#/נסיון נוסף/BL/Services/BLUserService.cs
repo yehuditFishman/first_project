@@ -17,6 +17,25 @@ namespace BL.Services
         { 
             user = dal.User;
         }
+
+        public void CreatUser(Client user)
+        {
+            this.user.Create(user);
+        }
+
+        public bool IsExist(int id)
+        {
+            List<Client> users = user.Read();
+            foreach (var customer in users)
+            {
+                if (customer.Id == id)
+                {
+                    return true; 
+                }
+            }
+            return false;
+        }
+
         public List<BLUser> ReadUsers()
         {
             List<BLUser> bluser = new List<BLUser>();
@@ -31,12 +50,14 @@ namespace BL.Services
                         Password = e.Password
                     }));
             return bluser;
-        
-    }
+
+        }
 
         public void UpdateUser(Client user)
         {
             this.user.Update(user);
         }
+
+
     }
 }

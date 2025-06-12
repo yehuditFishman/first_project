@@ -1,170 +1,167 @@
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\appsettings.Development.json
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\appsettings.json
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.exe
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.deps.json
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.runtimeconfig.json
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.pdb
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Azure.Core.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Azure.Identity.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.ClientModel.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Drawing.Common.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Memory.Data.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Security.Permissions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Text.Json.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\BL.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\DAL.dll
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\BL.pdb
-H:\C#\נסיון נוסף\Server\bin\Debug\net8.0\DAL.pdb
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.json
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.development.json
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.pack.json
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.Up2Date
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.dll
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\refint\Server.dll
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.pdb
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
-H:\C#\נסיון נוסף\Server\obj\Debug\net8.0\ref\Server.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\appsettings.Development.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\appsettings.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.exe
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.deps.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.runtimeconfig.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.pdb
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Azure.Core.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Azure.Identity.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.ClientModel.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Drawing.Common.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Memory.Data.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Security.Permissions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Text.Json.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\BL.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\DAL.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\BL.pdb
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\DAL.pdb
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.sourcelink.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.development.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.Up2Date
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\refint\Server.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.pdb
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\ref\Server.dll
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.json.cache
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-H:\C#\githube_project\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.sourcelink.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\refint\Server.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.pdb
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\appsettings.Development.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\appsettings.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.exe
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.deps.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Server.pdb
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Azure.Core.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Azure.Identity.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Humanizer.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.ClientModel.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.CodeDom.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Memory.Data.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Text.Json.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\BL.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\DAL.dll
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\BL.pdb
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\bin\Debug\net8.0\DAL.pdb
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.json.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.development.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+H:\‏‏Project_GitHub - עותק\first_project\C#\נסיון נוסף\Server\obj\Debug\net8.0\ref\Server.dll
