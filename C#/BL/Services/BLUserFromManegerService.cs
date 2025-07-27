@@ -18,19 +18,21 @@ namespace BL.Services
         {
             users = dal.User;
         }
-        public List<BLUserFromManeger> DetailsFromManeger()
-        {
-            List<BLUserFromManeger> bluserFromManeger = new List<BLUserFromManeger>();
 
-            users.Read().ForEach(
-                e => bluserFromManeger.Add(
-                    new BLUserFromManeger()
-                    {
-                        Name = e.Name,
-                        PhonNumber = e.PhonNumber,
-                       Email = e?.Email
-                    }));
-            return bluserFromManeger;
+        public BLUserFromManeger DetailsFromManeger(int userID)
+        {
+
+            var user =
+            users.Read().FirstOrDefault(u => u.Id == userID);
+            return new BLUserFromManeger
+            {
+                Name = user.Name,
+
+                PhonNumber = user.PhonNumber,
+
+                Email = user.Email
+            };
         }
+
     }
 }

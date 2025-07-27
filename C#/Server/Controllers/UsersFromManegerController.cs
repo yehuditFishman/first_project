@@ -13,7 +13,7 @@ namespace Server.Controllers
     public class UsersFromManegerController : ControllerBase
     {
         IBLUserFromManeger BLuser;
-       
+
 
         public UsersFromManegerController(IBLUserFromManeger bluser)
         {
@@ -22,10 +22,12 @@ namespace Server.Controllers
 
         [HttpGet]
 
-        public ActionResult<List<BLUserFromManeger>> getAllUsers()
+        public ActionResult<BLUserFromManeger> getUser(int id)
         {
-            return BLuser.DetailsFromManeger();
+            return BLuser.DetailsFromManeger(id);
         }
-        
+
     }
 }
+    
+

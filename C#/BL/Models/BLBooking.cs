@@ -24,5 +24,8 @@ namespace BL.Models
         //public virtual Flight Flight { get; set; } = null!;
 
         public virtual Client? User { get; set; }
+
+        public string FlightNumber { get; set; } = null!; // הוסף את מספר הטיסה
+        public string Destination { get; set; } = null!; // הוסף את היעד
     }
 }

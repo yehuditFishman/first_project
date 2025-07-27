@@ -2,6 +2,7 @@
 using BL.Models;
 using DAL.Api;
 using DAL.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -121,6 +122,49 @@ namespace BL.Services
                 User = b.User
             })
             .ToList();
+            return blBooking;
+        }
+
+        //    public List<BLBooking> getBookingsToUser(int userId)
+        //    {
+        //        List<BLBooking> blBooking =
+        //          booking.Read().Where(booking => booking.UserId == userId)
+        //          .Select(b => new BLBooking
+        //          {
+        //              Id = b.Id,
+
+        //              //UserId = b.UserId,
+
+        //              FlightId = b.FlightId,
+        //              //BookingDate = b.BookingDate,
+
+        //              Status = b.Status,
+
+        //              Class = b.Class,
+
+        //              //Flight = b.Flight,
+        //              //User = b.User
+        //          })
+        //          .ToList();
+        //        return blBooking;
+
+        //}
+
+        public List<BLBooking> getBookingsToUser(int userId)
+        {
+            var blBooking = booking.Read()
+                .Include(b => b.Flight) // טען את פרטי הטיסה
+                .Where(booking => booking.UserId == userId)
+                .Select(b => new BLBooking
+                {
+                    Id = b.Id,
+                    FlightId = b.FlightId,
+                    Status = b.Status,
+                    Class = b.Class,
+                    FlightNumber = b.Flight.FlightNumber, // הנחת שמספר הטיסה נמצא כאן
+                    Destination = b.Flight.Destination // הנחת שהיעד נמצא כאן
+                })
+                .ToList();
             return blBooking;
         }
     }

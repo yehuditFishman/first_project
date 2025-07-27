@@ -4728,23 +4728,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\טרכטינגוט רבקה1\\.nuget\\packages\\": {},
+    "C:\\Users\\משתמש\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\git final\\first_project\\C#\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "H:\\git final\\first_project\\C#\\Server\\Server.csproj",
-      "packagesPath": "C:\\Users\\טרכטינגוט רבקה1\\.nuget\\packages\\",
-      "outputPath": "H:\\git final\\first_project\\C#\\Server\\obj\\",
+      "projectPath": "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\Server\\Server.csproj",
+      "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\טרכטינגוט רבקה1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4760,11 +4760,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "H:\\git final\\first_project\\C#\\BL\\BL.csproj": {
-              "projectPath": "H:\\git final\\first_project\\C#\\BL\\BL.csproj"
+            "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\BL\\BL.csproj"
             },
-            "H:\\git final\\first_project\\C#\\DAL\\DAL\\DAL.csproj": {
-              "projectPath": "H:\\git final\\first_project\\C#\\DAL\\DAL\\DAL.csproj"
+            "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\DAL\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\Desktop\\לימודים\\FinalProject\\first_project\\C#\\DAL\\DAL\\DAL.csproj"
             }
           }
         }
@@ -4778,7 +4778,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4810,7 +4811,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

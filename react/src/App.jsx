@@ -20,6 +20,7 @@ import AddFlight from "./components/AddFlight";
 import FlightAddedSuccess from "./components/FlightAddedSuccess";
 import ManagerBookings from "./components/ManagerBookings";
 import UpdateFlight from "./components/UpdateFlight";
+import MyTickets from "./components/MyTickets";
 
 function App() {
 
@@ -42,6 +43,7 @@ function App() {
         <Route path="/add-flight-success" element={<FlightAddedSuccess />} />
         <Route path="/manager-bookings/:id" element={<ManagerBookings />} />
         <Route path="/update-flight/:id" element={<UpdateFlight />} />
+        <Route path="/my-tickets/:id" element={<MyTickets />} />
       </Routes>
     </Router>
   );

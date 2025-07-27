@@ -33,7 +33,12 @@ namespace Server.Controllers
         {
             return booking.getBookingsToManager(Id);
         }
-
+        [HttpGet("user{id}")]
+        public ActionResult<List<BLBooking>> getAllBookingsToUser(int Id)
+        
+        {
+            return booking.getBookingsToUser(Id);
+        }
         [HttpPut("{id}")]
         public void updateBooking([FromRoute] int id, [FromQuery] int userId)
         {

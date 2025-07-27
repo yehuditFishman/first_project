@@ -12,6 +12,8 @@ namespace BL.Api
         List<BLBooking> getBookingsToBuy(int idFlight);
         List<BLBooking> getBookingsToManager(int idFlight);
 
+        List<BLBooking> getBookingsToUser(int userId);
+
         void buyBooking(int idBooking, int userId);
 
         void AddBooking(BLBooking booking);

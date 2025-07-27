@@ -53,6 +53,8 @@ const PersonalAreaLogin = () => {
       setResult(data);
       if (data === "Maneger") {
         navigate("/manager-panel");
+      } else if (data === "User") {
+        navigate(`/my-tickets/${idInt}`);
       }
     } catch {
       setError("אירעה שגיאה בעת שליפת ההרשאות");

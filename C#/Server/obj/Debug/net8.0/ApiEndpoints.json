@@ -121,6 +121,32 @@
     ]
   },
   {
+    "ContainingType": "Server.Controllers.BookingsController",
+    "Method": "getAllBookingsToUser",
+    "RelativePath": "api/Bookings/user{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BL.Models.BLBooking, BL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Server.Controllers.FlightsController",
     "Method": "getAllFlights",
     "RelativePath": "api/Flights",
@@ -370,15 +396,21 @@
   },
   {
     "ContainingType": "Server.Controllers.UsersFromManegerController",
-    "Method": "getAllUsers",
+    "Method": "getUser",
     "RelativePath": "api/UsersFromManeger",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[BL.Models.BLUserFromManeger, BL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "BL.Models.BLUserFromManeger",
         "MediaTypes": [
           "text/plain",
           "application/json",

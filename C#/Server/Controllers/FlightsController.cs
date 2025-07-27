@@ -4,6 +4,7 @@ using DAL.Api;
 using DAL.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Server.models;
 
 namespace Server.Controllers
 {
@@ -13,10 +14,12 @@ namespace Server.Controllers
     {
        
         IBLFlight BLFlight;
+        IBLBooking BLBooking;
 
         public FlightsController(IBL bl)
         {
             this.BLFlight = bl.flight;
+            this.BLBooking = bl.booking;
         }
 
         [HttpGet]
@@ -55,13 +58,23 @@ namespace Server.Controllers
             return BLFlight.FlightsByDepartureDate(departureDate);
         }
         [HttpPost]
-        public ActionResult<bool> AddFlight([FromBody] Flight flight)
+        public ActionResult<bool> AddFlight([FromBody] DAL.Models.Flight flight)
         {
             if (flight == null)
             {
                 return BadRequest("Flight cannot be null.");
             }
             BLFlight.AddFlight(flight);
+            BLBooking booking = new BLBooking
+            {
+                
+                
+                 FlightId = flight.Id,
+                // BookingDate = blBooking.BookingDate,
+                Status = false,
+                Class = "a"
+            };
+            BLBooking.AddBooking(booking);
             return Ok(true);
         }
     }

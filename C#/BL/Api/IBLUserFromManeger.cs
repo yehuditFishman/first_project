@@ -10,6 +10,7 @@ namespace BL.Api
 {
     public interface IBLUserFromManeger
     {
-        List<BLUserFromManeger> DetailsFromManeger();
+        BLUserFromManeger DetailsFromManeger(int userId);
     }
 }
+

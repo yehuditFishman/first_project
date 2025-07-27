@@ -5,12 +5,13 @@
     "\\BL\\Api",
     "\\DAL",
     "\\DAL\\DAL",
+    "\\DAL\\DAL\\Models",
     "\\DAL\\DAL\\Services",
     "\\Server",
     "\\Server\\Controllers",
     "\\Server\\Middlewares",
     "\\Server\\models"
   ],
-  "SelectedNode": "\\Server\\models\\DatabaseManager.cs",
+  "SelectedNode": "\\DAL\\DAL\\Models\\DatabaseManager.cs",
   "PreviewInSolutionExplorer": false
 }
